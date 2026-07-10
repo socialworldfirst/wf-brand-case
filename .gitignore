@@ -1,4 +1,7 @@
 build_case.py
+build_v2.py
+content_v2.py
+__pycache__/
 data/
 checkpoints/
 PREREGISTRATION.md
