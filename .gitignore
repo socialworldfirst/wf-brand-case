@@ -1,0 +1,8 @@
+build_case.py
+data/
+checkpoints/
+PREREGISTRATION.md
+case_copy_draft.md
+*.png
+.playwright-mcp/
+.DS_Store
